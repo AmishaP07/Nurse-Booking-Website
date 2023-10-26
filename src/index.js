@@ -15,3 +15,17 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+// const express=require("express");
+// const app=express();
+// const bodyParser=requie("body-parser");
+// const cors=reqiure("cors");
+
+// app.use(cors());
+// app.use(express.json());
+// app.use(bodyParser.urlencoded({extended:true}));
+
+// app.listen(5000,()=>{
+//   console.log("Server is running on port 5000");
+// })

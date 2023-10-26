@@ -36,3 +36,143 @@
     transform: rotate(360deg);
   }
 }
+.email{
+
+  margin-left: 45px;
+  text-align: left;
+}
+.password{
+
+  margin-left: 23px;
+  text-align: left;
+  /* width: 200px; */
+}
+.emaillab,.passwordlab{
+
+  text-align: left;
+  margin-left:-4px;
+}
+
+.but{
+  size: 10px;
+  margin-top: 0%;
+  text-transform: uppercase;
+  color: white;
+  font-size: 15px;
+  font-weight: lighter;
+  width: 108px;
+  height: 34px;
+  margin-left: 5px;
+  border-style: none;
+  border-radius: 9px;
+  cursor: pointer;
+  background: #0028db;
+}
+.regpasstxt,.regnotxt{
+  margin-left: 10px;
+}
+.regemail,.repassword{
+  margin-left: 10px;
+}
+.regphoneno{
+  margin-left: 10px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  display: inline-block;
+  margin-left: 49px;
+}
+
+input[type="email" i] {
+  
+  margin-left: 75px;
+  position: absolute;
+}
+
+.regemailtxt{
+  margin-left: -249px;
+}
+
+.email{
+  margin-left: -243px;
+
+}
+
+.emaillab{
+  margin-left: 1px;
+  position: relative;
+}
+
+.teext{
+  margin-left: -19px;
+  position: absolute;
+}
+
+.name{
+  margin-left: 113px;
+}
+
+.gender{
+  margin-left: 104px;
+  width: 184px;
+  height: 37.6px;
+  border-radius: 5px;
+  text-align: center;
+}
+.age{
+  margin-left: 128px;
+}
+.address{
+  margin-left: 104px;
+  width: 184px;
+  height: 37.6px;
+  border-radius: 5px;
+  text-align: justify;
+  display: inline-table;
+}
+
+.date{
+  margin-left: 124px;
+  width: 162.4px;
+  height: 16px;
+}
+
+.time{
+  margin-left: 219px;
+  
+}
+
+.but1{
+  size: 10px;
+  margin-top: 0%;
+  text-transform: uppercase;
+  color: white;
+  font-size: 15px;
+  font-weight: lighter;
+  width: 199px;
+  height: 50px;
+  margin-left: 5px;
+  border-style: none;
+  border-radius: 9px;
+  cursor: pointer;
+  background: #0028db;
+}
+
+.bookingconfirm{
+  font-size: 20px;
+  padding: 33px;
+  margin-top: 30px;
+
+}
+
+.heading{
+  font-size: 50px;
+}
+
+.image{
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
